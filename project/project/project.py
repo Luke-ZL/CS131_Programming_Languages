@@ -16,7 +16,7 @@ server_ports = {
     "Wilkes":12268,
 	}
 
-api_key = "AIzaSyDYKBO7w-kzeei09p-LQgJvXvPXsucQD5E"
+api_key = "****************************************************"
 
 server_neighbour = {'Goloman':['Hands','Holiday','Wilkes'],
 				   'Hands':['Wilkes', 'Goloman'],
