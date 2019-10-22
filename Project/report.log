@@ -1,0 +1,238 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.21)  4 JUN 2019 21:01
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2018-12-01>
+(D:\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\MiKTeX\tex/latex/filecontents\filecontents.sty
+Package: filecontents 2018/05/30 v1.4 Create an external file from within a LaT
+eX document
+) (report.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 46--46
+[]\OT1/cmr/bx/n/12 Introduction to corou-tines and
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+
+Underfull \hbox (badness 1043) in paragraph at lines 47--48
+\OT1/cmr/m/n/10 Python asyn-cio pack-age of-fers corou-tines, which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+[1{C:/Users/Lu Zixuan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 er-ror mes-sage which is an er-ro-neous be-haviour.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \hbox (badness 3954) in paragraph at lines 74--75
+\OT1/cmr/m/n/10 have their own ad-van-tage. How-ever, Java's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 87--88
+\OT1/cmr/m/n/10 ref-er-ences. How-ever, when the garbage col-lec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 91--91
+[]\OT1/cmr/bx/n/10 Conclusion about com-par-i-son with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+[4]
+Underfull \hbox (badness 1661) in paragraph at lines 111--113
+[]\OT1/cmr/m/n/10 Threaded Asyn-chronous Magic and How To
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 111--113
+\OT1/cmr/m/n/10 Wield It Cris-tian Medina-Cristian Med-ina -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+\OT1/cmr/m/n/10 https://hackernoon.com/threaded-asynchronous-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+[]\OT1/cmr/m/n/10 Statically Typed Vs Dy-nam-i-cally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+\OT1/cmr/m/n/10 Typed Lan-guages 1558288245 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+\OT1/cmr/m/n/10 https://hackernoon.com/statically-typed-vs-
+ []
+
+
+Overfull \hbox (79.01465pt too wide) in paragraph at lines 120--122
+[]\OT1/cmr/m/n/10 Python Wiki, https://wiki.python.org/moin/GlobalInterpreterLo
+ck 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+[]\OT1/cmr/m/n/10 Garbage Col-lec-tion in Python
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+\OT1/cmr/m/n/10 https://www.geeksforgeeks.org/garbage-
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 126--128
+[]\OT1/cmr/m/n/10 Mark-and-sweep: Garbage Col-lec-tion Al-go-
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 129--131
+[]\OT1/cmr/m/n/10 Python Vs Node.js: Which Is Bet-ter For
+ []
+
+[5
+
+] (report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 245 strings out of 492946
+ 2784 string characters out of 3143481
+ 67716 words of memory out of 3000000
+ 4212 multiletter control sequences out of 15000+200000
+ 8063 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,7n,19p,1297b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+
+Output written on report.pdf (5 pages, 104477 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

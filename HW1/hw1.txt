@@ -1,0 +1,13 @@
+subset: I used a function defined in "List" module called mem to write a recursive function which determines if every element of a belongs to b.
+
+equal_sets: I used the previous subset function to detrermine if 2 sets are equal. (They are equal if and only if a is a subset of b and b is a subset of a)
+
+set_union: A recursive function that adds an element of a to b when b does not contain this element.
+
+set_intersection: A recursive function that adds elements of a into an empty set when the elements are also present in b.
+
+set_diff: a recursive function that adds elements of a into an empty set when the elements are not present in b.
+
+computed_fixed_point: A recursive function that repeatedly compute a function over input x, where x is the result of the last computation. The recursive process keeps going on until the input and output of a computation are equal.
+
+filter_reachable: A recursive function that find all the reachable rules in the input grammar g. The function has two parts: first it finds a list of non-terminals that can be reached with a specified starting symbol. THe process of finding all the reachable non-terminals is as follows: with the starting symbol and the rules for the starting symbol, find all the non-terminals on the right-hand-side. Then repeat the process for all the newly found non-terminals until no more can be found. All the non-terminals found are merged into a list using set_union function and is returned to the filter_reachable function. Then with the list of reachable non-terminals, the function finds all the reachable rules which are those with a left-hand-side non-terminal in the reachable list returned.

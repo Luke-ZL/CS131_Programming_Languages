@@ -1,0 +1,266 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.21)  7 JUN 2019 19:57
+entering extended mode
+**./hw6.tex
+(hw6.tex
+LaTeX2e <2018-12-01>
+(D:\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\MiKTeX\tex/latex/filecontents\filecontents.sty
+Package: filecontents 2018/05/30 v1.4 Create an external file from within a LaT
+eX document
+) (hw6.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `hw6.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+
+Underfull \hbox (badness 1038) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 with com-pre-hen-sive doc-u-men-ta-tion and sup-ports
+ []
+
+[1{C:/Users/Lu Zixuan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 1137) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 Since Java is stat-i-cally typed, this means type
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 Although Java's garbage col-lec-tor is free from
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 nor-mal pro-gram ex-e-cu-tion is suspended.$[]$ Also,
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 also means a steeper learn-ing curve, and more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+[]\OT1/cmr/m/n/10 Python (pro-gram-ming Lan-guage) -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+\OT1/cmr/m/n/10 Wikipedia https://en.wikipedia.org/
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 97--100
+[]\OT1/cmr/m/n/10 Python Wiki, https://wiki.python.org/moin/
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 104--106
+[]\OT1/cmr/m/n/10 Mark-and-sweep: Garbage Col-lec-tion Al-go-
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 107--109
+[]\OT1/cmr/m/n/10 Install Ten-sor-flow For Java | Ten-sor-flow
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+[]\OT1/cmr/m/n/10 Real world OCaml, Chap-ter 18. Con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+\OT1/cmr/m/n/10 cur-rent Pro-gram-ming with Async,
+ []
+
+
+Overfull \hbox (27.63948pt too wide) in paragraph at lines 110--113
+\OT1/cmr/m/n/10 https://v1.realworldocaml.org/v1/en/html/concurrent-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+[]\OT1/cmr/m/n/10 Real world OCaml, Chap-ter 21. Un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+\OT1/cmr/m/n/10 der-stand-ing the Garbage Col-lec-tor,
+ []
+
+
+Overfull \hbox (43.50067pt too wide) in paragraph at lines 114--117
+\OT1/cmr/m/n/10 https://v1.realworldocaml.org/v1/en/html/understanding-
+ []
+
+
+Overfull \hbox (41.57468pt too wide) in paragraph at lines 118--120
+[]\OT1/cmr/m/n/10 Why Ocaml? https://www2.lib.uchicago.edu/keith/ocaml-
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[]\OT1/cmr/m/n/10 My Os X Pro-gram-ming Blog
+ []
+
+
+Overfull \hbox (1.63943pt too wide) in paragraph at lines 121--123
+\OT1/cmr/m/n/10 https://sixthhappiness.github.io/articles/python-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+[]\OT1/cmr/m/n/10 Concurrency, Par-al-lelism,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+\OT1/cmr/m/n/10 and Dis-tributed Sys-tems
+ []
+
+
+Overfull \hbox (22.94502pt too wide) in paragraph at lines 124--126
+\OT1/cmr/m/n/10 https://ocamlverse.github.io/content/parallelism.html 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+[]\OT1/cmr/m/n/10 Coroutines For Asyn-chronous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+\OT1/cmr/m/n/10 Pro-gram-ming and More
+ []
+
+
+Overfull \hbox (2.16716pt too wide) in paragraph at lines 127--129
+\OT1/cmr/m/n/10 https://kotlinlang.org/docs/reference/coroutines-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+[]\OT1/cmr/m/n/10 Tensorflow in Kotlin/native
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+\OT1/cmr/m/n/10 https://juliuskunze.com/tensorflow-in-kotlin-
+ []
+
+[4
+
+] (hw6.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 241 strings out of 492946
+ 2696 string characters out of 3143481
+ 66716 words of memory out of 3000000
+ 4210 multiletter control sequences out of 15000+200000
+ 7587 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,7n,19p,971b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on hw6.pdf (4 pages, 71066 bytes).
+PDF statistics:
+ 31 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

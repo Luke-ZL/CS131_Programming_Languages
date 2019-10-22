@@ -1,0 +1,60 @@
+I wrote my make_matcher and make_parser by reusing a pair of mutually recursive
+functions that can find the prefix of a fragment (with the suffix accepted by
+the acceptor passed in). However, to keep track of the derivation of the prefix,
+ the acceptor in the function pair (make_rules and make_individual) needs to
+take in two parameters: frag and used. Thus, for make_matcher to work, I write
+an extra acceptor_wrapper function which basically take in both arguments and
+the acceptor itself, and return whatever the acceptor returns when passed in
+frag arguament (ignore the used argument passed into the wrapper). For the
+make_parser function, we do not need to find a prefix, but rather how to derive
+ the whole fragment. Thus, we passed in an acceptor that only accept empty
+lists, and return the derivation argument passed as it is.
+
+make_rules/make_individual: a pair of mutually recursive functions. The idea
+behind is simple: make_rules take in list of  actual rules corresponding to a
+non-terminal symbol. It tries from left to right every possible rule to see if
+it is possible to find a legal prefix by calling the make_individual function.
+If the call returns None, it tries the next rul until no more rule is
+available. If it returns Some+list, just return whatever make_individual
+returns, as this is the answer we want. Make_individual acutally takes in an
+actual rule which is, in essence, a list of terminals and non-terminals. For
+every terminal, it compares it with the current head of the fragment and see
+if they are the same: we only want a prefix that is actually in the fragment.
+It also keeps track of the length of the prefix: it cannot exceed the length of
+ the fragment. For every non-terminal, it calls make_rules again, with itself(
+to parse the rest of the symbols in the rule) as the acceptor. This is because
+for this time, we cannot be sure how many elements in the fragment would be
+matched with the call of match_ruels.
+
+make_parallel/make_subtree: a pair of mutually recursive functions that
+try to build a parse tree based on the rules given by
+make_rules/make_individual pair. The derivation rules are basically another
+form of the parse tree, with the order of rules the same as the order of parse
+tree construction. Thus, when using the rules, we do not need to worry about
+rule matching, but rather use them one by one to build the parse tree.
+make_parallel is a function that takes in a rule which is a list of terminal
+and non-terminal symbols. For each individual symbol, it passes to make_subtree
+to construct a subtree for each subsequent rules in the derivation rule list.
+mkae_subtree takes in a single symbol to construct a subtree. For each
+terminal, it just returns a leaf (a simpliest subtree). For a non-terminal, it
+call make_parallel again to construct all the subtrees in the next level, and
+return the whole subtree based on the return value of make_parallel (a Node).
+Since we need to keep track of the derivation rules we have used, the return
+value for both of them is a tuple.
+
+The actual make_parser function is just a wrapper for make_parallel function.
+Since both the tree and now empty derivation rules are returned in a tuple, we
+take only the tree and extract it from the list (a single element list
+containing a Node due to the construction of the previous function).
+
+Weakness:
+The make_matcher and make_parser I wrote for this project are rather naive as
+I make the pre-assumption that I will never face a grammar that has the
+following form:
+
+N Expr -> [N Expr; T "HI"]
+N Expr -> [T "Hello"]
+
+Since I always consturct the sub-prefix for a non-terminal before I proceed
+to a next symbol in the rule, a grammar like the above will make me run into
+an infinite loop.
