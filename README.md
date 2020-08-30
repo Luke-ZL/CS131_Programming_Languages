@@ -16,6 +16,6 @@ This repository contains my projects for CS 131 Programming Languages taken in S
 
 [Project 5](https://github.com/Luke-ZL/CS131/tree/master/HW5)(Scheme): Scheme code difference analyzer. A simple generator of diff summary given two pieces of text.
 
-[Project 6](hhttps://github.com/Luke-ZL/CS131/tree/master/project)(Python): Proxy herd with asyncio. A herd of servers that can communicate with each other and clients asynchronously.
+[Project 6](https://github.com/Luke-ZL/CS131/tree/master/project)(Python): Proxy herd with asyncio. A herd of servers that can communicate with each other and clients asynchronously.
 
 [Project 7](https://github.com/Luke-ZL/CS131/tree/master/HW6)(Python, Java, Ocaml, Kotlin): Language bindings for TensorFlow. A discussion of java, Ocaml , and Kotlin's performance and reliability.
