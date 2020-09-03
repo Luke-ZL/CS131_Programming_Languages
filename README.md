@@ -1,4 +1,4 @@
-# My CS131 projects
+# CS131_Programming_Languages
 
 ## Introduction
 This repository contains my projects for CS 131 Programming Languages taken in Spring 2019.
